@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textViewRegister" type="id" />
+    <item name="textViewResult" type="id" />
+    <item name="buttonLogin" type="id" />
+    <item name="editTextPassword" type="id" />
+    <item name="editTextUsername" type="id" />
+    <item name="editTextNewUsername" type="id" />
+    <item name="editTextNewPassword" type="id" />
+    <item name="buttonRegister" type="id" />
+    <item name="textViewRegisterResult" type="id" />
+</resources>
